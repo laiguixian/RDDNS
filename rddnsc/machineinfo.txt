@@ -1,0 +1,1 @@
+﻿{"serveraddr":"127.0.0.1","serverport":"8180","machinename":"zjtaishijifz01","mstatus":1,"timeout":35,"clientlist":[{"clientname":"itdklocal","tomat":"inet","timeout":6,"port":"5536","nginxp":"weight=3"},{"clientname":"itsoulocal","tomat":"itnet","timeout":25,"port":"5556","nginxp":"weight=3"}]}

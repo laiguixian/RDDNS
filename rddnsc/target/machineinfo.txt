@@ -1,0 +1,2 @@
+﻿{"serveraddr":"144.202.1.82","serverport":"8180","machinename":"zjtaishijifz01","mstatus":1,"timeout":35,"clientlist":[{"clientname":"itdklocal","tomat":"itdknet","timeout":25,"port":"8888","nginxp":"weight=3"},
+{"clientname":"zzsoulocal","tomat":"zzsounet","timeout":25,"port":"8388","nginxp":"weight=3"},{"clientname":"itsoulocal","tomat":"itsounet","timeout":25,"port":"8588","nginxp":"weight=3"}]}
