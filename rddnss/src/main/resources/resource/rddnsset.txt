@@ -1,0 +1,17 @@
+{
+"version":"1.0",
+"desfile":"D:/nginx.conf",
+"webinfo":
+[
+{
+"tomat":"inet",
+"servername":"*.i.net",
+"webport":"80"
+},
+{
+"tomat":"itnet",
+"servername":"*.it.net",
+"webport":"80"
+}
+]
+}
